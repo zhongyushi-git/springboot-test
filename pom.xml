@@ -11,7 +11,6 @@
     <groupId>com.zys</groupId>
     <artifactId>springboot-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot-test</name>
     <packaging>war</packaging>
     <description>Demo project for Spring Boot</description>
 
