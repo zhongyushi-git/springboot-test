@@ -1,0 +1,10 @@
+kind: pipeline
+type: docker
+name: default
+
+steps:
+  - name: greeting
+  images: alpine
+  commonfs:
+    - echo hello
+    - echo world
